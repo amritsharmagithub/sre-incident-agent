@@ -111,4 +111,5 @@ Python 3.13 · Anthropic Python SDK (Claude Managed Agents beta) · Claude Opus 
 
 ## Credits
 
-Based on [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) (Apache-2.0), © Anthropic PBC. The scenario, mock data, dashboard UI and workshop scaffolding are Anthropic's. I implemented the agent functions in `agent.py` with Claude Code, and did the setup, debugging, documentation and demo myself.
+- **Video:** [Ship your first Managed Agent](https://www.youtube.com/watch?v=19HDQ9HppOA), published by Anthropic on the Claude YouTube channel (May 26, 2026). This workshop taught me the Agent → Environment → Session → Events model this project is built on.
+- **Code:** based on [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) (Apache-2.0), © Anthropic PBC. The scenario, mock data, dashboard UI and workshop scaffolding are Anthropic's. I implemented the agent functions in `agent.py` with Claude Code, and did the setup, debugging, documentation and demo myself.
