@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+data/app.log
+.claude/
+.sre-state.json
+outputs/
